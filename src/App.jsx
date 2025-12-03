@@ -32,7 +32,7 @@ const siteProps = {
   linkedIn: "linkedin.com/in/ammarhnfi",
   medium: "medium.com/@ammarhnfi",
   x: "x.com/ammarhnfi",
-  youTube: "Ammar Hanafi",
+  youTube: "youtube.com/@ammarhnfi",
 };
 
 const primaryColor = "#4E567E";
